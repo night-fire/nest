@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Markdown Editor",
+  "description": "A simple browser-based text editor with view (CommonMark with GFM) and edit modes. Allows users to write Markdown and preview its rendering.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
